@@ -35,3 +35,5 @@ This project is based on the Kaggle Titanic dataset, which is divided into train
 
 ### Results
   the model worked well on this dataset
+### licence
+  the code is under [MIT LICENCE](LICENCE)
